@@ -1,0 +1,19 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Go Authenticator.",
+        "title": "authenticator",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {
+            "name": "realHoangHai",
+            "email": "aflyingpenguin2lth@gmail.com"
+        },
+        "license": {
+            "name": "MIT",
+            "url": "http://github.com/realHoangHai/authenticator/blob/master/LICENSE"
+        },
+        "version": "VERSION"
+    },
+    "basePath": "/",
+    "paths": {}
+}

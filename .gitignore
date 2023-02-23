@@ -1,0 +1,37 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Keypair
+*.pem
+*.key
+*.crt
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# Output directories
+_output/
+
+# System
+.DS_Store
+dist/
+
+# Idea and editor
+.idea
+.vscode/
+
+# Config
+.env
+
+
+# Logs
+log/
+logs/

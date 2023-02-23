@@ -1,0 +1,14 @@
+[app]
+port = 10808
+mode = "debug"
+shutdown_timeout = 30
+
+[postgres]
+driver = "postgres"
+user = "postgres"
+password = "lemmein"
+host = "127.0.0.1"
+port = "5432"
+database = "auth"
+ssl_mode = "disable"
+migration = true

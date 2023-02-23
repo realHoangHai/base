@@ -1,0 +1,14 @@
+basePath: /
+info:
+  contact:
+    email: aflyingpenguin2lth@gmail.com
+    name: realHoangHai
+  description: Go Authenticator.
+  license:
+    name: MIT
+    url: http://github.com/realHoangHai/authenticator/blob/master/LICENSE
+  termsOfService: http://swagger.io/terms/
+  title: authenticator
+  version: VERSION
+paths: {}
+swagger: "2.0"
